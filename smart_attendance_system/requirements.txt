@@ -1,0 +1,19 @@
+# Smart Attendance System - Requirements
+# Compatible with Python 3.13.7
+
+# Core UI Framework
+customtkinter==5.2.2
+
+# Image Processing and QR Code Generation  
+Pillow==10.4.0
+qrcode[pil]==7.4.2
+
+# Database Connectivity
+mysql-connector-python==9.0.0
+
+# Web Server Framework
+Flask==3.0.3
+Werkzeug==3.0.3
+
+# Additional Core Dependencies
+python-dateutil==2.9.0
